@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ch1 AFGHAN 
-https://afghantv.live/khurshid/embed.html?token=74a57ad917413156f785a7352455d1fc7cad7767-063bdd592ba993b868c130523e70b7d2-1595978317-1595891917.m3u
+http://185.149.90.126:9896/afg2019/tolotv/chunks.m3u8?nimblesessionid=736791&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjEwOjMzIFBNJmhhc2hfdmFsdWU9OFcxSUs3bDlmMm5hcnZkeXFkajh4Zz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,ch2 AFGHAN 
 http://185.149.90.126:9896/afg2019/tolotv/chunks.m3u8?nimblesessionid=595090&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDE6NDE6MzggQU0maGFzaF92YWx1ZT1ZTFJPS000Qzl3VUxyTHhkcC9LcGVBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,ch1 AFGHAN
