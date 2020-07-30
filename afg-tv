@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,ch1 AFGHAN 
+#EXTINF:-1,Tolo 
 http://185.149.90.126:9896/afg2019/tolotv/chunks.m3u8?nimblesessionid=736791&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjEwOjMzIFBNJmhhc2hfdmFsdWU9OFcxSUs3bDlmMm5hcnZkeXFkajh4Zz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,ch2 AFGHAN 
+#EXTINF:-1,Tolo News 
 http://185.149.90.126:9896/afg2019/tolotv/chunks.m3u8?nimblesessionid=736791&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjEwOjMzIFBNJmhhc2hfdmFsdWU9OFcxSUs3bDlmMm5hcnZkeXFkajh4Zz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,ch1 AFGHAN
 
