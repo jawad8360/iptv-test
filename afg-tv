@@ -5,69 +5,80 @@ http://185.149.90.126:9896/afg2019/tolotv/chunks.m3u8?nimblesessionid=736791&wms
 http://185.149.90.126:9896/afg2019/tolonews/chunks.m3u8?nimblesessionid=738812&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjMzOjI0IFBNJmhhc2hfdmFsdWU9N05LR3hxaFNRVUlVaG9FSHB0OXFUQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,RTA
 http://185.149.90.126:9896/afg2019/rtatv/chunks.m3u8?nimblesessionid=739284&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjM4OjU3IFBNJmhhc2hfdmFsdWU9NDVDWlFjaFRKc2ZabzJQNXBkNWwvQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Atn Afghan
+http://185.149.90.126:9896/afg2019/atnafghan/chunks.m3u8?nimblesessionid=740479&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjUzOjQwIFBNJmhhc2hfdmFsdWU9Kzk0dFoxTE1LNXN0RHdRUWtuU2tIUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,Atn News
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Atn Inr
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Lemar
+http://185.149.90.126:9896/afg2019/lemar/chunks.m3u8?nimblesessionid=743094&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDExOjIyOjI5IFBNJmhhc2hfdmFsdWU9ei9EZENFYXRaSG5TUURQRnJuT3poQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,Tamadon
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,One TV
+http://185.149.90.126:9896/afg2019/onetv/chunks.m3u8?nimblesessionid=743403&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDExOjI1OjIzIFBNJmhhc2hfdmFsdWU9Y0FnK041cmh6QXlaakhEYkc2ejc1UT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,Noor
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Shamshad
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Zwandoon
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Khurshid
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Kabul
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,AMC
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Kayhan
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Afghan Javan
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Rah-e-Farda
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Hewad
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Payam-e-Afghan
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Arezo
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Zarin
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Bahar
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Hasti
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Naween
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,11 TV
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Afghan Nobel
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Afghan Theatre
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Iman
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Sarood
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Afghan Time
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Palwasha
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Watan-e-Maa
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,HW TV
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Pamir
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Batur
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Zan
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Donia
 
-#EXTINF:-1,ch1 AFGHAN
+#EXTINF:-1,Omid
+
+#EXTINF:-1,Sama
+
+#EXTINF:-1,Tuti
+http://185.149.90.126:9896/afg2019/tutitv/chunks.m3u8?nimblesessionid=742932&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDExOjIxOjAzIFBNJmhhc2hfdmFsdWU9OElBSm5pSDNqMXpHS2hwcGxQL1BXUT09JnZhbGlkbWludXRlcz0y
 
