@@ -11,12 +11,12 @@ http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/JerfIBt.jpg" group-title="",Tuti
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8
-#EXTINF:-1,Tolo 
-http://164.90.189.71:3265/afg2019/tolotv/chunks.m3u8?nimblesessionid=799&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDI6MTg6MjEgUE0maGFzaF92YWx1ZT15S250MWoxVG4vRnZja0RkeWxUL0RnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Tolo
+http://164.90.189.71:3265/afg2019/tolotv/chunks.m3u8?nimblesessionid=5852&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDM6MTE6MDkgUE0maGFzaF92YWx1ZT1RMGRFRFVVOVlkOGNLYzJuVzZORzVRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,Tolo News 
-http://185.149.90.126:9896/afg2019/tolonews/chunks.m3u8?nimblesessionid=738812&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjMzOjI0IFBNJmhhc2hfdmFsdWU9N05LR3hxaFNRVUlVaG9FSHB0OXFUQT09JnZhbGlkbWludXRlcz0y
+http://164.90.189.71:3265/afg2019/tolonews/chunks.m3u8?nimblesessionid=7304&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDM6MjQ6MjIgUE0maGFzaF92YWx1ZT14L2RXRjFUOStqRjBtczNmdkZtQ3VBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,RTA
-http://185.149.90.126:9896/afg2019/rtatv/chunks.m3u8?nimblesessionid=739284&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjM4OjU3IFBNJmhhc2hfdmFsdWU9NDVDWlFjaFRKc2ZabzJQNXBkNWwvQT09JnZhbGlkbWludXRlcz0y
+http://164.90.189.71:3265/afg2019/rtatv/chunks.m3u8?nimblesessionid=12230&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDQ6MDk6NTIgUE0maGFzaF92YWx1ZT1LcVJnNGl1Z1l1S1NYQzVZUFJhOHJ3PT0mdmFsaWRtaW51dGVzPTI=1
 #EXTINF:-1,Atn Afghan
 http://185.149.90.126:9896/afg2019/atnafghan/chunks.m3u8?nimblesessionid=740479&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjUzOjQwIFBNJmhhc2hfdmFsdWU9Kzk0dFoxTE1LNXN0RHdRUWtuU2tIUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,Atn News
