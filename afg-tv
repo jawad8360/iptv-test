@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Tolo 
-http://185.149.90.126:9896/afg2019/tolotv/chunks.m3u8?nimblesessionid=736791&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjEwOjMzIFBNJmhhc2hfdmFsdWU9OFcxSUs3bDlmMm5hcnZkeXFkajh4Zz09JnZhbGlkbWludXRlcz0y
+http://164.90.189.71:3265/afg2019/tolotv/chunks.m3u8?nimblesessionid=799&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDI6MTg6MjEgUE0maGFzaF92YWx1ZT15S250MWoxVG4vRnZja0RkeWxUL0RnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,Tolo News 
 http://185.149.90.126:9896/afg2019/tolonews/chunks.m3u8?nimblesessionid=738812&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjMzOjI0IFBNJmhhc2hfdmFsdWU9N05LR3hxaFNRVUlVaG9FSHB0OXFUQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,RTA
