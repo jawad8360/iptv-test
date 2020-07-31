@@ -8,19 +8,19 @@ http://185.149.90.126:9896/afg2019/rtatv/chunks.m3u8?nimblesessionid=739284&wmsA
 #EXTINF:-1,Atn Afghan
 http://185.149.90.126:9896/afg2019/atnafghan/chunks.m3u8?nimblesessionid=740479&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjUzOjQwIFBNJmhhc2hfdmFsdWU9Kzk0dFoxTE1LNXN0RHdRUWtuU2tIUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,Atn News
-
+http://185.149.90.126:9896/afg2019/atnnewsafg/chunks.m3u8?nimblesessionid=747136&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDEyOjIwOjI3IEFNJmhhc2hfdmFsdWU9NnFnV1hZTEorRjUvOWFoMEJCdGhOZz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,Atn Inr
 
 #EXTINF:-1,Lemar
 http://185.149.90.126:9896/afg2019/lemar/chunks.m3u8?nimblesessionid=743094&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDExOjIyOjI5IFBNJmhhc2hfdmFsdWU9ei9EZENFYXRaSG5TUURQRnJuT3poQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,Tamadon
-
+http://185.149.90.126:9896/afg2019/tamadon/chunks.m3u8?nimblesessionid=746601&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDEyOjEwOjM4IEFNJmhhc2hfdmFsdWU9OTlyMXA1aEhqVXRoL3YycDluMXF4dz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,One TV
 http://185.149.90.126:9896/afg2019/onetv/chunks.m3u8?nimblesessionid=743403&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDExOjI1OjIzIFBNJmhhc2hfdmFsdWU9Y0FnK041cmh6QXlaakhEYkc2ejc1UT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,Noor
-
+http://185.149.90.126:9896/afg2019/noortvafg/chunks.m3u8?nimblesessionid=747253&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDEyOjIzOjIyIEFNJmhhc2hfdmFsdWU9OVRNeksrMUdQQk1VdWptcXlFb1dydz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,Shamshad
-
+http://185.149.90.126:9896/afg2019/shamshadtv/chunks.m3u8?nimblesessionid=745132&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDExOjQ3OjE5IFBNJmhhc2hfdmFsdWU9Q0VETDltcWdWSUt5TVlaSEhkNElQdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,Zwandoon
 
 #EXTINF:-1,Khurshid
