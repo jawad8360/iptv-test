@@ -11,87 +11,127 @@ http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/JerfIBt.jpg" group-title="",Tuti
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8
+
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Tolo
 http://164.90.189.71:3265/afg2019/tolotv/chunks.m3u8?nimblesessionid=718137&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjAgNTo1MDowOCBQTSZoYXNoX3ZhbHVlPUpHRVVnbWN2Nm9EYU4rd0hTNlowVWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
 #EXTINF:-1,Tolo News 
 http://164.90.189.71:3265/afg2019/tolonews/chunks.m3u8?nimblesessionid=705652&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjAgNDoxNjowNyBQTSZoYXNoX3ZhbHVlPTFkenBQT2JIWkZ2QjNlUXVwT1Z0SkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1,RTA
-http://164.90.189.71:3265/afg2019/rtatv/chunks.m3u8?nimblesessionid=12230&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDQ6MDk6NTIgUE0maGFzaF92YWx1ZT1LcVJnNGl1Z1l1S1NYQzVZUFJhOHJ3PT0mdmFsaWRtaW51dGVzPTI=1
+http://164.90.189.71:3265/afg2019/rtatv/chunks.m3u8?nimblesessionid=719980&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjAgNjowNTozNyBQTSZoYXNoX3ZhbHVlPW41bi9MUitDdkY3THFkZXpWa0k0eGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
 #EXTINF:-1,Atn Afghan
 http://185.149.90.126:9896/afg2019/atnafghan/chunks.m3u8?nimblesessionid=740479&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjUzOjQwIFBNJmhhc2hfdmFsdWU9Kzk0dFoxTE1LNXN0RHdRUWtuU2tIUT09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,Atn News
 http://185.149.90.126:9896/afg2019/atnnewsafg/chunks.m3u8?nimblesessionid=747136&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDEyOjIwOjI3IEFNJmhhc2hfdmFsdWU9NnFnV1hZTEorRjUvOWFoMEJCdGhOZz09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,Atn Inr
 
 #EXTINF:-1,Lemar
 http://185.149.90.126:9896/afg2019/lemar/chunks.m3u8?nimblesessionid=743094&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDExOjIyOjI5IFBNJmhhc2hfdmFsdWU9ei9EZENFYXRaSG5TUURQRnJuT3poQT09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,Tamadon
 http://185.149.90.126:9896/afg2019/tamadon/chunks.m3u8?nimblesessionid=746601&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDEyOjEwOjM4IEFNJmhhc2hfdmFsdWU9OTlyMXA1aEhqVXRoL3YycDluMXF4dz09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,One TV
 http://185.149.90.126:9896/afg2019/onetv/chunks.m3u8?nimblesessionid=743403&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDExOjI1OjIzIFBNJmhhc2hfdmFsdWU9Y0FnK041cmh6QXlaakhEYkc2ejc1UT09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,Noor
 http://185.149.90.126:9896/afg2019/noortvafg/chunks.m3u8?nimblesessionid=747253&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDEyOjIzOjIyIEFNJmhhc2hfdmFsdWU9OVRNeksrMUdQQk1VdWptcXlFb1dydz09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,Shamshad
 http://185.149.90.126:9896/afg2019/shamshadtv/chunks.m3u8?nimblesessionid=745132&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDExOjQ3OjE5IFBNJmhhc2hfdmFsdWU9Q0VETDltcWdWSUt5TVlaSEhkNElQdz09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,Zwandoon
 http://185.149.90.126:9896/afg2019/watanemaa/chunks.m3u8?nimblesessionid=750592&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MjY6NDUgQU0maGFzaF92YWx1ZT0wb01rcDBOY2tWVEhESEw1cTFOVlR3PT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Khurshid
 http://185.149.90.126:9896/afg2019/khurshidtv/chunks.m3u8?nimblesessionid=747527&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDEyOjI4OjU1IEFNJmhhc2hfdmFsdWU9VEtVNldlbHR2UTRYYzdwK3pOMzhTdz09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,Kabul
 http://185.149.90.126:9896/afg2019/kabultv/chunks.m3u8?nimblesessionid=747629&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDEyOjMwOjUzIEFNJmhhc2hfdmFsdWU9c3VwTUpORXhyNXEyWXg5dG5JZ21Hdz09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,AMC
 http://185.149.90.126:9896/afg2019/amcafg/chunks.m3u8?nimblesessionid=747732&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDEyOjMyOjUzIEFNJmhhc2hfdmFsdWU9bDRTOXJRcGlXSG5UWVpsblJmVllEZz09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,Kayhan
 http://185.149.90.126:9896/afg2019/kayhantv/chunks.m3u8?nimblesessionid=747817&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDEyOjM1OjE3IEFNJmhhc2hfdmFsdWU9SzdoMnZOTXdhU1JkQlY1QVpSbU1OUT09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,Afghan Javan
 http://185.149.90.126:9896/afg2019/afghanjavan/chunks.m3u8?nimblesessionid=748558&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDEyOjQ5OjA0IEFNJmhhc2hfdmFsdWU9YjAySU9HK3I0UTNWQjVpVjlZc1o4QT09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,Rah-e-Farda
 http://185.149.90.126:9896/afg2019/rahefarda/chunks.m3u8?nimblesessionid=749317&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MDM6MTcgQU0maGFzaF92YWx1ZT03anZkRmZWK1RxU3hHOHB0SDJUZFZRPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Hewad
 http://185.149.90.126:9896/afg2019/hewadtv/chunks.m3u8?nimblesessionid=749424&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MDU6MDAgQU0maGFzaF92YWx1ZT1BR1k1MmhVU3RNTlNGQXJjNC8yRk5nPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Payam-e-Afghan
+
 
 #EXTINF:-1,Arezo
 http://185.149.90.126:9896/afg2019/arezonews/chunks.m3u8?nimblesessionid=749545&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MDY6NTkgQU0maGFzaF92YWx1ZT1ZdCtwZHltWDRlbHpiWVZtNVZsdkxBPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Zarin
 http://185.149.90.126:9896/afg2019/zarintv/chunks.m3u8?nimblesessionid=751771&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6NTA6MzQgQU0maGFzaF92YWx1ZT0zcW9iWmhBK1EydUwwZHpHS1RWMnJBPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Bahar
 http://185.149.90.126:9896/afg2019/bahartv/chunks.m3u8?nimblesessionid=749702&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MDk6NTkgQU0maGFzaF92YWx1ZT0wUFVIeDdUZ012dzNIZDRtWUoxTjB3PT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Hasti
 http://185.149.90.126:9896/afg2019/hastitv/chunks.m3u8?nimblesessionid=749880&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MTI6MTQgQU0maGFzaF92YWx1ZT16eTNkQlNkQkQ5SVRIRXlXTndxcWxBPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Naween
 http://185.149.90.126:9896/afg2019/naweentv/chunks.m3u8?nimblesessionid=751700&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6NDk6MDkgQU0maGFzaF92YWx1ZT0weHJTMk1Hc3R4azBWRnBkQjZhZ3RnPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,11 TV
 http://185.149.90.126:9896/afg2019/11tv/chunks.m3u8?nimblesessionid=749994&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MTQ6MTggQU0maGFzaF92YWx1ZT04Ym8zYW5VQW5xRVlPSkowRWY0K1V3PT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Afghan Nobel
 http://185.149.90.126:9896/afg2019/afghannobel/chunks.m3u8?nimblesessionid=750128&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MTc6MDIgQU0maGFzaF92YWx1ZT1OQjYraFl1VE9BZzVtSVo0NCtlYTh3PT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Afghan Theatre
 http://185.149.90.126:9896/afg2019/afghanthratre/chunks.m3u8?nimblesessionid=750203&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MTg6MzQgQU0maGFzaF92YWx1ZT0vUXlpSEFGclUvN0pTeEFuVlFuWDlRPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Iman
 http://185.149.90.126:9896/afg2019/imantv/chunks.m3u8?nimblesessionid=750313&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MjA6NTEgQU0maGFzaF92YWx1ZT15WUl1Y0hWZUJMUFAyWGk3MEdUclFBPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Sarood
 http://185.149.90.126:9896/afg2019/saroodtv/chunks.m3u8?nimblesessionid=750377&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MjI6MTEgQU0maGFzaF92YWx1ZT01cWI4WFhwaUFrRCtkb2NBRzVrRGdBPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Afghan Time
+
 
 #EXTINF:-1,Palwasha
 http://185.149.90.126:9896/afg2019/palwashatv/chunks.m3u8?nimblesessionid=750483&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MjM6NTkgQU0maGFzaF92YWx1ZT1KbnhHOUs2TldBNkp1OTZtV0FHTCtnPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Watan-e-Maa
 http://185.149.90.126:9896/afg2019/watanemaa/chunks.m3u8?nimblesessionid=751439&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6NDM6MzggQU0maGFzaF92YWx1ZT1GRWVWYnlseFFXUlZIMDM4VXNQcU1BPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Hazara World
 http://185.149.90.126:9896/afg2019/hazaraworld/chunks.m3u8?nimblesessionid=750721&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6Mjk6MjAgQU0maGFzaF92YWx1ZT14R0hFemFSKzVBQzM3ZjVSQWRheitBPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Pamir
 http://185.149.90.126:9896/afg2019/pamirtv/chunks.m3u8?nimblesessionid=751004&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MzM6NTYgQU0maGFzaF92YWx1ZT1EdUVQQnFQSFR2VXBtMlFLOVg4QzVBPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Batur
+
 
 #EXTINF:-1,Zan
 http://185.149.90.126:9896/afg2019/zantv/chunks.m3u8?nimblesessionid=751191&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6MzY6NTEgQU0maGFzaF92YWx1ZT1KQ0ZYT0U4NXZQQnVWY2pSYVdtdm9RPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Donia
 http://185.149.90.126:9896/afg2019/doniatv/chunks.m3u8?nimblesessionid=751276&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6Mzg6MjkgQU0maGFzaF92YWx1ZT1SSzdGSkIvWEt3TUxTRUthWDBCRm9nPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Omid
 http://185.149.90.126:9896/afg2019/omidtv/chunks.m3u8?nimblesessionid=751318&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6NDA6MTMgQU0maGFzaF92YWx1ZT0yU3VWYTd0b05vQnlhNUp2aVRUQXlRPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Sama
 http://185.149.90.126:9896/afg2019/samatvafg/chunks.m3u8?nimblesessionid=751384&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIwIDE6NDE6NTEgQU0maGFzaF92YWx1ZT1GV0VWMDFYejlVbEF0ZG1SVTVra2ZnPT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1,Tuti
 http://185.149.90.126:9896/afg2019/tutitv/chunks.m3u8?nimblesessionid=742932&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDExOjIxOjAzIFBNJmhhc2hfdmFsdWU9OElBSm5pSDNqMXpHS2hwcGxQL1BXUT09JnZhbGlkbWludXRlcz0y
+
 
