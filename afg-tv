@@ -19,7 +19,7 @@ https://fflivetolotv.b-cdn.net/media_2.m3u8
 http://164.90.189.71:3265/afg2019/tolonews/chunks.m3u8?nimblesessionid=705652&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjAgNDoxNjowNyBQTSZoYXNoX3ZhbHVlPTFkenBQT2JIWkZ2QjNlUXVwT1Z0SkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1,RTA
-http://164.90.189.71:3265/afg2019/rtatv/chunks.m3u8?nimblesessionid=719980&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjAgNjowNTozNyBQTSZoYXNoX3ZhbHVlPW41bi9MUitDdkY3THFkZXpWa0k0eGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+https://afghantv.live/rta/tracks-v1a1/mono.m3u8?token=138401cb1deab7beaf5920b67eb5a65f7b308ea4-3f75d416a92afab980ed0045d6c79ff7-1597108940-1597022540
 
 #EXTINF:-1,Atn Afghan
 http://185.149.90.126:9896/afg2019/atnafghan/chunks.m3u8?nimblesessionid=740479&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIwIDEwOjUzOjQwIFBNJmhhc2hfdmFsdWU9Kzk0dFoxTE1LNXN0RHdRUWtuU2tIUT09JnZhbGlkbWludXRlcz0y
